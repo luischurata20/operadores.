@@ -21,3 +21,4 @@ cout << " x = " << x << " y = " << y << endl;
 system("PAUSE");
 return EXIT_SUCCESS;
 }
+//// MODIFICAR EL EJERCICIO QUE CUANDO EL PROGRAMA VOTE LOS VALORES DE "X" y "Y", TAMBIEN INDIQUE QUE SON PARES O IMPARES
