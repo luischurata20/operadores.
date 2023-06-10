@@ -8,7 +8,7 @@ cout << " Introduzca el valor de a de b y de c ";
 cin >> a >> b >> c;
 cout << " Introduzca el valor de d de e y de f " ;
 cin >> d >> e >> f;
-denominador = a * e – b * d;
+denominador = a * e && b * d;
 if (denominador == 0)
 cout << " no solucion\n";
 else
